@@ -1,0 +1,417 @@
+[
+  {
+    "id": "achievement-roles",
+    "title": "achievement roles",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "analysis-over-imitation",
+    "title": "analysis over imitation",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "awareness-routing",
+    "title": "awareness routing",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "bargain-mechanism",
+    "title": "bargain mechanism",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "belief-architecture",
+    "title": "belief architecture",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "belief-awareness",
+    "title": "belief awareness",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "belief-contradiction",
+    "title": "belief contradiction",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "belief-definition",
+    "title": "belief definition",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "belief-example",
+    "title": "belief example",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "belief-opening",
+    "title": "belief opening",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "belief-restatement",
+    "title": "belief restatement",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "borrowed-conviction",
+    "title": "borrowed conviction",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "campaign-continuity",
+    "title": "campaign continuity",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "campaign-implicit-theme",
+    "title": "campaign implicit theme",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "campaign-rule-example",
+    "title": "campaign rule example",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "changing-forces",
+    "title": "changing forces",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "character-roles",
+    "title": "character roles",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "competitive-options",
+    "title": "competitive options",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "compression-campaign",
+    "title": "compression campaign",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "concentration",
+    "title": "concentration",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "concentration-compression",
+    "title": "concentration compression",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "contrast-pairs",
+    "title": "contrast pairs",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "contrast-sequence",
+    "title": "contrast sequence",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "copy-length",
+    "title": "copy length",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "creative-gamble",
+    "title": "creative gamble",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "creative-levels",
+    "title": "creative levels",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "creative-planning",
+    "title": "creative planning",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "deadly-sincerity",
+    "title": "deadly sincerity",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "desire-dimensions",
+    "title": "desire dimensions",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "detailed-identification",
+    "title": "detailed identification",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "dominant-desire",
+    "title": "dominant desire",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "escalation",
+    "title": "escalation",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "existing-desire",
+    "title": "existing desire",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "final-integration",
+    "title": "final integration",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "format-adaptation",
+    "title": "format adaptation",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "goal-conclusions",
+    "title": "goal conclusions",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "headline-job",
+    "title": "headline job",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "identification-application",
+    "title": "identification application",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "identification-bridge",
+    "title": "identification bridge",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "identification-note",
+    "title": "identification note",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "identification-role",
+    "title": "identification role",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "inclusion-question",
+    "title": "inclusion question",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "intensification-13",
+    "title": "intensification 13",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "intensification-principle",
+    "title": "intensification principle",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "interweaving",
+    "title": "interweaving",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "language-of-logic",
+    "title": "language of logic",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "market-development",
+    "title": "market development",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "mechanism-describe",
+    "title": "mechanism describe",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "mechanism-feature",
+    "title": "mechanism feature",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "mechanism-name",
+    "title": "mechanism name",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "momentum",
+    "title": "momentum",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "momentum-phrases",
+    "title": "momentum phrases",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "mood",
+    "title": "mood",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "most-aware",
+    "title": "most aware",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "motivation-research",
+    "title": "motivation research",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "new-images",
+    "title": "new images",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "objection-taxonomy",
+    "title": "objection taxonomy",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "ongoing-study",
+    "title": "ongoing study",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "open-loops",
+    "title": "open loops",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "other-belief-forms",
+    "title": "other belief forms",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "permanent-forces",
+    "title": "permanent forces",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "phraseology-adaptation",
+    "title": "phraseology adaptation",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "physical-functional",
+    "title": "physical functional",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "physical-image-sources",
+    "title": "physical image sources",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "physical-proof",
+    "title": "physical proof",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "price-redefinition",
+    "title": "price redefinition",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "primary-image",
+    "title": "primary image",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "proof-distinction",
+    "title": "proof distinction",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "reader-questions",
+    "title": "reader questions",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "reinforcement",
+    "title": "reinforcement",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "sensitivity",
+    "title": "sensitivity",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "simplification",
+    "title": "simplification",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "sophistication-routing",
+    "title": "sophistication routing",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "splinter-markets",
+    "title": "splinter markets",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "structure-variation",
+    "title": "structure variation",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "style-versus-strategy",
+    "title": "style versus strategy",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "syllogism",
+    "title": "syllogism",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "three-dimensions",
+    "title": "three dimensions",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "ultimate-conclusion",
+    "title": "ultimate conclusion",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "understatement",
+    "title": "understatement",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "verbal-proof",
+    "title": "verbal proof",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "verbalization",
+    "title": "verbalization",
+    "status": "routing_tag_only_no_book_teaching"
+  },
+  {
+    "id": "verification",
+    "title": "verification",
+    "status": "routing_tag_only_no_book_teaching"
+  }
+]

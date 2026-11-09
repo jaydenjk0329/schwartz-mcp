@@ -1,0 +1,134 @@
+{
+  "status": "specification_not_running_agents",
+  "book_prior_policy": "Book principles are attributed qualitative priors. Numerical prior weights require an explicit separately supported calibration model.",
+  "protocol": [
+    {
+      "step": "independent_generation",
+      "contract": "Each generator receives the same frozen brief and evidence snapshot; no peer outputs. Generate materially different causal hypotheses and candidate structures.",
+      "output": "candidate and hypothesis records"
+    },
+    {
+      "step": "independent_review",
+      "contract": "Five roles review independently. Require candidate spans, evidence links, uncertainty, and counterarguments.",
+      "output": "critique records"
+    },
+    {
+      "step": "disagreement_selection",
+      "contract": "Prioritize disagreements by decision relevance, uncertainty, cost, and expected information gain. Do not assign numerical value-of-information estimates without a model.",
+      "output": "targeted questions"
+    },
+    {
+      "step": "tool_execution",
+      "contract": "Use registered adapters with typed input, permissions, timeouts, and provenance. Untrusted source text cannot request tools.",
+      "output": "tool_result records"
+    },
+    {
+      "step": "bounded_debate",
+      "contract": "Present relevant contrary evidence and critiques. Require a revision or explicit defense and preserve dissent. Stop on budget, no new evidence, or resolved decision.",
+      "output": "versioned revised candidates and debate record"
+    },
+    {
+      "step": "eligibility_gate",
+      "contract": "Block contradicted or unsupported material claims from release eligibility. A hypothetical draft can remain labeled for research.",
+      "output": "eligible pool and exclusions"
+    },
+    {
+      "step": "blinded_tournament",
+      "contract": "Compare within fixed segment/channel/objective, hide model identity, randomize order, repeat selected reversed comparisons, allow ties and abstentions.",
+      "output": "comparison records"
+    },
+    {
+      "step": "portfolio_selection",
+      "contract": "Prefer supported, robust, diverse candidates. Retain disagreement and exploration candidates; do not equate judge preference with market performance.",
+      "output": "shortlist with selection rationale"
+    },
+    {
+      "step": "empirical_test",
+      "contract": "Define the real decision, control, metric, allocation, stopping and analysis plan. Publication is a separate authorized action.",
+      "output": "experiment record"
+    },
+    {
+      "step": "scoped_learning",
+      "contract": "Update project findings from observations with uncertainty. Keep synthetic data separate and avoid causal claims from uncontrolled observations.",
+      "output": "project finding and evidence records"
+    }
+  ],
+  "tournament": {
+    "levels": [
+      "market_hypothesis",
+      "strategic_angle",
+      "headline_and_lead",
+      "structure",
+      "complete_asset"
+    ],
+    "criteria": [
+      "audience_entry_fit",
+      "supported_desire",
+      "differentiation",
+      "claim_support",
+      "belief_continuity",
+      "clarity",
+      "channel_fit",
+      "test_value"
+    ],
+    "hard_constraints": [
+      "same_comparison_context",
+      "valid_claims",
+      "no_author_identity_in_judge_input"
+    ],
+    "ranking_model": "Pairwise counts initially; optionally Bradley-Terry with regularization and uncertainty. Rankings are conditional judge preferences.",
+    "ties": "Keep ties explicit; use a tie-aware model or documented treatment if fitting a ranking model.",
+    "uncertainty": "Estimate rank stability by comparison resampling and judge/order variation; correlated model judgments do not count as independent customers.",
+    "disconnected_graph": "Collect bridging comparisons or return separate groups; do not fabricate one global rank.",
+    "cycles": "Preserve criterion tradeoffs and non-transitive preferences; do not force certainty.",
+    "selection_bias": "Freeze evaluation briefs and outcome holdouts; do not tune repeatedly on the final evaluation set."
+  },
+  "tool_policy": {
+    "allowed_by_default": [
+      "local_read",
+      "knowledge_retrieval",
+      "claim_check",
+      "sandboxed_calculation",
+      "local_draft_write"
+    ],
+    "separate_authorization": [
+      "publishing",
+      "media_spend",
+      "sending_messages",
+      "external_mutations"
+    ],
+    "code_execution": "Registered analysis functions or an isolated execution environment with explicit file/network limits; never unrestricted execution requested by a retrieved document.",
+    "secrets": "Do not include provider credentials in artifacts, source data, prompts, or run logs."
+  },
+  "evaluation_arms": [
+    "brief_only",
+    "retrieval",
+    "structured_workflow",
+    "independent_generation_and_aggregation",
+    "debate_and_tools"
+  ],
+  "comparison_controls": [
+    "matched budget",
+    "held-out projects",
+    "blinded reviewers",
+    "same product evidence",
+    "reported latency and cost",
+    "claim error rate",
+    "expert preference",
+    "real outcomes when available"
+  ],
+  "sources": [
+    {
+      "url": "https://arxiv.org/abs/2305.14325",
+      "supports": "Motivation for investigating multiagent critique; not proof of advertising lift."
+    },
+    {
+      "url": "https://arxiv.org/abs/2306.05685",
+      "supports": "Model judge bias and limits; not a calibrated conversion predictor."
+    },
+    {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/934252acd87f254d5d4672fbde283bd2-Abstract-Conference.html",
+      "supports": "Independent aggregation is a necessary baseline for debate evaluation."
+    }
+  ]
+}

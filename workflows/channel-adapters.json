@@ -1,0 +1,484 @@
+[
+  {
+    "id": "paid-social",
+    "title": "Paid social ads",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Hook",
+      "primary text",
+      "visual brief",
+      "headline",
+      "CTA",
+      "destination promise"
+    ],
+    "acceptance_checks": [
+      "Placement and length constraints",
+      "image-to-claim consistency",
+      "qualified response beyond clicks"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "organic-social",
+    "title": "Organic social posts and threads",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Opening post",
+      "optional supporting replies",
+      "source link",
+      "follow reason",
+      "measurement plan"
+    ],
+    "acceptance_checks": [
+      "Current platform length constraints",
+      "truthful attribution and experience",
+      "value before follow request",
+      "qualified audience response",
+      "no invented reach or follower growth"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "search",
+    "title": "Search advertising",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Query intent",
+      "ad groups",
+      "headline and description variants",
+      "destination mapping"
+    ],
+    "acceptance_checks": [
+      "Intent fit",
+      "supplied current platform limits",
+      "no unsupported dynamic claims"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "display",
+    "title": "Display and short-space advertising",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Single dominant idea",
+      "concise copy",
+      "visual brief",
+      "CTA"
+    ],
+    "acceptance_checks": [
+      "Readability at actual size",
+      "clear product or benefit connection"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "sales-page",
+    "title": "Long-form sales page",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Headline",
+      "lead",
+      "belief sequence",
+      "offer",
+      "proof",
+      "objections",
+      "close"
+    ],
+    "acceptance_checks": [
+      "Claim support",
+      "reading continuity",
+      "mobile hierarchy",
+      "offer consistency"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "advertorial",
+    "title": "Advertorial and editorial-style selling",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Editorially suitable opening",
+      "explanatory body",
+      "product transition",
+      "offer"
+    ],
+    "acceptance_checks": [
+      "Truthful sponsorship and attribution",
+      "no invented reporting or authorities"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "email",
+    "title": "Email campaign",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Subject",
+      "preview",
+      "body",
+      "sequence role",
+      "CTA",
+      "landing continuity"
+    ],
+    "acceptance_checks": [
+      "Subject-to-body fulfillment",
+      "sequence context",
+      "no invented personal correspondence"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "direct-mail",
+    "title": "Direct mail package",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Envelope",
+      "letter",
+      "inserts",
+      "reply device",
+      "terms"
+    ],
+    "acceptance_checks": [
+      "Package continuity",
+      "authentic sender",
+      "readable conditions",
+      "coherent response path"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "video-vsl",
+    "title": "Video and video sales letter",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Hook",
+      "voiceover",
+      "visual directions",
+      "demonstrations",
+      "proof",
+      "CTA"
+    ],
+    "acceptance_checks": [
+      "Spoken duration",
+      "claim-to-visual alignment",
+      "genuine demonstration boundaries"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "audio",
+    "title": "Audio and radio",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Spoken script",
+      "timing",
+      "repetition",
+      "auditory identity",
+      "response instructions"
+    ],
+    "acceptance_checks": [
+      "Listenability",
+      "timing",
+      "intelligible qualifications and response path"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "catalog",
+    "title": "Catalog and product listing",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Product name",
+      "compressed benefits",
+      "price",
+      "specification",
+      "ordering information"
+    ],
+    "acceptance_checks": [
+      "Accuracy of terms and variants",
+      "sufficient decision information in limited space"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "product-page",
+    "title": "Ecommerce product detail page",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Benefit hierarchy",
+      "specifications",
+      "proof",
+      "FAQ",
+      "offer",
+      "purchase path"
+    ],
+    "acceptance_checks": [
+      "Variant accuracy",
+      "shipping and return terms",
+      "promise continuity"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "retargeting",
+    "title": "Retargeting and reactivation",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Prior exposure hypothesis",
+      "unresolved objection",
+      "new proof or offer",
+      "CTA"
+    ],
+    "acceptance_checks": [
+      "Exposure is evidenced",
+      "awareness is not assumed from one visit"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "b2b-lead-generation",
+    "title": "B2B lead generation",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Role-specific problem",
+      "value hypothesis",
+      "proof",
+      "qualification",
+      "next step"
+    ],
+    "acceptance_checks": [
+      "Buying roles",
+      "qualified leads",
+      "evidence for business outcomes"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  },
+  {
+    "id": "webinar",
+    "title": "Webinar or presentation campaign",
+    "workflow_id": "channel-adaptation",
+    "deliverables": [
+      "Registration promise",
+      "teaching sequence",
+      "demonstration",
+      "product bridge",
+      "offer"
+    ],
+    "acceptance_checks": [
+      "Deliver the promised teaching",
+      "distinguish education from promotion",
+      "factual proof"
+    ],
+    "required_inputs": [
+      "campaign_brief",
+      "approved_strategy",
+      "claim_ledger",
+      "channel_constraints"
+    ],
+    "provenance_class": "modern_engineering_extension_not_a_book_chapter",
+    "technique_ids": [
+      "compression-campaign",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "mood"
+    ],
+    "constraint_policy": "Obtain current platform-specific limits at execution; do not hardcode unverified limits.",
+    "publication": "Creates drafts; publishing or buying media is a separate explicitly authorized adapter."
+  }
+]

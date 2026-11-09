@@ -1,0 +1,477 @@
+[
+  {
+    "id": "most-aware__s1",
+    "awareness": "most-aware",
+    "sophistication": "s1",
+    "entry_policy": "Lead with the known product and relevant offer or action; summarize needed benefits.",
+    "competitive_policy": "Test a simple direct supported promise in a market unfamiliar with such an offer.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "most-aware",
+      "s1"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "most-aware__s2",
+    "awareness": "most-aware",
+    "sophistication": "s2",
+    "entry_policy": "Lead with the known product and relevant offer or action; summarize needed benefits.",
+    "competitive_policy": "Test meaningful enlargement or differentiation of the familiar promise within evidence limits.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "most-aware",
+      "s2"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "most-aware__s3",
+    "awareness": "most-aware",
+    "sophistication": "s3",
+    "entry_policy": "Lead with the known product and relevant offer or action; summarize needed benefits.",
+    "competitive_policy": "Investigate whether a real fresh mechanism restores credibility to a familiar benefit.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "most-aware",
+      "s3"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "most-aware__s4",
+    "awareness": "most-aware",
+    "sophistication": "s4",
+    "entry_policy": "Lead with the known product and relevant offer or action; summarize needed benefits.",
+    "competitive_policy": "Compare real advantages, ease, or limits of competing mechanisms.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "most-aware",
+      "s4"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "most-aware__s5",
+    "awareness": "most-aware",
+    "sophistication": "s5",
+    "entry_policy": "Lead with the known product and relevant offer or action; summarize needed benefits.",
+    "competitive_policy": "Investigate identification, reframing, or a fresh market entry when promise and mechanism appeals are exhausted.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "most-aware",
+      "s5"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "product-aware__s1",
+    "awareness": "product-aware",
+    "sophistication": "s1",
+    "entry_policy": "Select the unresolved reason to want or choose the known product.",
+    "competitive_policy": "Test a simple direct supported promise in a market unfamiliar with such an offer.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "product-aware",
+      "s1"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "product-aware__s2",
+    "awareness": "product-aware",
+    "sophistication": "s2",
+    "entry_policy": "Select the unresolved reason to want or choose the known product.",
+    "competitive_policy": "Test meaningful enlargement or differentiation of the familiar promise within evidence limits.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "product-aware",
+      "s2"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "product-aware__s3",
+    "awareness": "product-aware",
+    "sophistication": "s3",
+    "entry_policy": "Select the unresolved reason to want or choose the known product.",
+    "competitive_policy": "Investigate whether a real fresh mechanism restores credibility to a familiar benefit.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "product-aware",
+      "s3"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "product-aware__s4",
+    "awareness": "product-aware",
+    "sophistication": "s4",
+    "entry_policy": "Select the unresolved reason to want or choose the known product.",
+    "competitive_policy": "Compare real advantages, ease, or limits of competing mechanisms.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "product-aware",
+      "s4"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "product-aware__s5",
+    "awareness": "product-aware",
+    "sophistication": "s5",
+    "entry_policy": "Select the unresolved reason to want or choose the known product.",
+    "competitive_policy": "Investigate identification, reframing, or a fresh market entry when promise and mechanism appeals are exhausted.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "product-aware",
+      "s5"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "solution-aware__s1",
+    "awareness": "solution-aware",
+    "sophistication": "s1",
+    "entry_policy": "Name the desired outcome, establish that it is attainable, and connect the product.",
+    "competitive_policy": "Test a simple direct supported promise in a market unfamiliar with such an offer.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "solution-aware",
+      "s1"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "solution-aware__s2",
+    "awareness": "solution-aware",
+    "sophistication": "s2",
+    "entry_policy": "Name the desired outcome, establish that it is attainable, and connect the product.",
+    "competitive_policy": "Test meaningful enlargement or differentiation of the familiar promise within evidence limits.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "solution-aware",
+      "s2"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "solution-aware__s3",
+    "awareness": "solution-aware",
+    "sophistication": "s3",
+    "entry_policy": "Name the desired outcome, establish that it is attainable, and connect the product.",
+    "competitive_policy": "Investigate whether a real fresh mechanism restores credibility to a familiar benefit.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "solution-aware",
+      "s3"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "solution-aware__s4",
+    "awareness": "solution-aware",
+    "sophistication": "s4",
+    "entry_policy": "Name the desired outcome, establish that it is attainable, and connect the product.",
+    "competitive_policy": "Compare real advantages, ease, or limits of competing mechanisms.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "solution-aware",
+      "s4"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "solution-aware__s5",
+    "awareness": "solution-aware",
+    "sophistication": "s5",
+    "entry_policy": "Name the desired outcome, establish that it is attainable, and connect the product.",
+    "competitive_policy": "Investigate identification, reframing, or a fresh market entry when promise and mechanism appeals are exhausted.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "solution-aware",
+      "s5"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "problem-aware__s1",
+    "awareness": "problem-aware",
+    "sophistication": "s1",
+    "entry_policy": "Start with the recognized need, make its solution intelligible, then introduce the product.",
+    "competitive_policy": "Test a simple direct supported promise in a market unfamiliar with such an offer.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "problem-aware",
+      "s1"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "problem-aware__s2",
+    "awareness": "problem-aware",
+    "sophistication": "s2",
+    "entry_policy": "Start with the recognized need, make its solution intelligible, then introduce the product.",
+    "competitive_policy": "Test meaningful enlargement or differentiation of the familiar promise within evidence limits.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "problem-aware",
+      "s2"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "problem-aware__s3",
+    "awareness": "problem-aware",
+    "sophistication": "s3",
+    "entry_policy": "Start with the recognized need, make its solution intelligible, then introduce the product.",
+    "competitive_policy": "Investigate whether a real fresh mechanism restores credibility to a familiar benefit.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "problem-aware",
+      "s3"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "problem-aware__s4",
+    "awareness": "problem-aware",
+    "sophistication": "s4",
+    "entry_policy": "Start with the recognized need, make its solution intelligible, then introduce the product.",
+    "competitive_policy": "Compare real advantages, ease, or limits of competing mechanisms.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "problem-aware",
+      "s4"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "problem-aware__s5",
+    "awareness": "problem-aware",
+    "sophistication": "s5",
+    "entry_policy": "Start with the recognized need, make its solution intelligible, then introduce the product.",
+    "competitive_policy": "Investigate identification, reframing, or a fresh market entry when promise and mechanism appeals are exhausted.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "problem-aware",
+      "s5"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "unaware__s1",
+    "awareness": "unaware",
+    "sophistication": "s1",
+    "entry_policy": "Find a relevant accepted identity, experience, or feeling and bridge to the need and product.",
+    "competitive_policy": "Test a simple direct supported promise in a market unfamiliar with such an offer.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "unaware",
+      "s1"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "unaware__s2",
+    "awareness": "unaware",
+    "sophistication": "s2",
+    "entry_policy": "Find a relevant accepted identity, experience, or feeling and bridge to the need and product.",
+    "competitive_policy": "Test meaningful enlargement or differentiation of the familiar promise within evidence limits.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "unaware",
+      "s2"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "unaware__s3",
+    "awareness": "unaware",
+    "sophistication": "s3",
+    "entry_policy": "Find a relevant accepted identity, experience, or feeling and bridge to the need and product.",
+    "competitive_policy": "Investigate whether a real fresh mechanism restores credibility to a familiar benefit.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "unaware",
+      "s3"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "unaware__s4",
+    "awareness": "unaware",
+    "sophistication": "s4",
+    "entry_policy": "Find a relevant accepted identity, experience, or feeling and bridge to the need and product.",
+    "competitive_policy": "Compare real advantages, ease, or limits of competing mechanisms.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "unaware",
+      "s4"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  },
+  {
+    "id": "unaware__s5",
+    "awareness": "unaware",
+    "sophistication": "s5",
+    "entry_policy": "Find a relevant accepted identity, experience, or feeling and bridge to the need and product.",
+    "competitive_policy": "Investigate identification, reframing, or a fresh market entry when promise and mechanism appeals are exhausted.",
+    "composition": "Awareness governs where to begin; sophistication informs how to differentiate once relevant. Test rather than mechanically concatenate the two instructions.",
+    "conflict_policy": "Prefer evidenced audience needs and supported claims. Retain competing diagnoses or abstain when either axis is uncertain.",
+    "technique_ids": [
+      "unaware",
+      "s5"
+    ],
+    "requires": [
+      "segment_profile",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "status": "routing_hypothesis_not_empirically_validated"
+  }
+]

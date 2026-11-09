@@ -1,0 +1,162 @@
+[
+  {
+    "id": "product-aware-tasks",
+    "when": "awareness == product-aware",
+    "technique_ids": [
+      "product-aware-01",
+      "product-aware-02",
+      "product-aware-03",
+      "product-aware-04",
+      "product-aware-05",
+      "product-aware-06",
+      "product-aware-07"
+    ],
+    "select": "One primary job based on the unresolved reason to prefer or want the product; supporting jobs may be combined."
+  },
+  {
+    "id": "unaware-entries",
+    "when": "awareness == unaware",
+    "technique_ids": [
+      "unaware-01",
+      "unaware-02",
+      "unaware-03",
+      "unaware-04",
+      "unaware-05",
+      "unaware-06",
+      "unaware-07",
+      "unaware-08"
+    ],
+    "select": "Compare relevant entry hypotheses; the source explicitly leaves the list open-ended."
+  },
+  {
+    "id": "headline-methods",
+    "when": "a supported strategic idea exists",
+    "technique_ids": [
+      "headline-01",
+      "headline-02",
+      "headline-03",
+      "headline-04",
+      "headline-05",
+      "headline-06",
+      "headline-07",
+      "headline-08",
+      "headline-09",
+      "headline-10",
+      "headline-11",
+      "headline-12",
+      "headline-13",
+      "headline-14",
+      "headline-15",
+      "headline-16",
+      "headline-17",
+      "headline-18",
+      "headline-19",
+      "headline-20",
+      "headline-21",
+      "headline-22",
+      "headline-23",
+      "headline-24",
+      "headline-25",
+      "headline-26",
+      "headline-27",
+      "headline-28",
+      "headline-29",
+      "headline-30",
+      "headline-31",
+      "headline-32",
+      "headline-33",
+      "headline-34",
+      "headline-35",
+      "headline-36",
+      "headline-37",
+      "headline-38"
+    ],
+    "select": "Choose only transformations that preserve truth and audience fit; do not apply all 38 to one headline."
+  },
+  {
+    "id": "intensification-methods",
+    "when": "desire needs vivid and varied development",
+    "technique_ids": [
+      "intensification-01",
+      "intensification-02",
+      "intensification-03",
+      "intensification-04",
+      "intensification-05",
+      "intensification-06",
+      "intensification-07",
+      "intensification-08",
+      "intensification-09",
+      "intensification-10",
+      "intensification-11",
+      "intensification-12",
+      "intensification-13"
+    ],
+    "select": "Use distinct relevant perspectives within channel limits; skip unsupported demonstrations or endorsements."
+  },
+  {
+    "id": "mechanism-depth",
+    "when": "a real mechanism supports the claim",
+    "technique_ids": [
+      "mechanism-name",
+      "mechanism-describe",
+      "mechanism-feature"
+    ],
+    "select": "Choose name, explanation, or prominence according to familiarity, skepticism, and competition."
+  },
+  {
+    "id": "redefinition",
+    "when": "objections block progression",
+    "technique_ids": [
+      "simplification",
+      "escalation",
+      "price-redefinition"
+    ],
+    "select": "Map difficulty, importance, or price to the relevant method without concealing real limitations."
+  },
+  {
+    "id": "competition",
+    "when": "a switching barrier exists",
+    "technique_ids": [
+      "competitive-options",
+      "contrast-pairs",
+      "contrast-sequence",
+      "concentration-compression"
+    ],
+    "select": "Decide whether comparison is useful; then select point pairs, experience sequence, or compressed contrast."
+  },
+  {
+    "id": "belief-devices",
+    "when": "premises or transitions lack acceptance",
+    "technique_ids": [
+      "inclusion-question",
+      "detailed-identification",
+      "belief-contradiction",
+      "language-of-logic",
+      "syllogism",
+      "other-belief-forms"
+    ],
+    "select": "Use supported premises and valid transitions; simulated acceptance is not factual proof."
+  },
+  {
+    "id": "campaign-pattern",
+    "when": "multiple assets share a strategic idea",
+    "technique_ids": [
+      "campaign-continuity",
+      "campaign-rule-example",
+      "campaign-implicit-theme"
+    ],
+    "select": "Choose repeated verbal idea with fresh examples or implicit theme with fresh product stories."
+  },
+  {
+    "id": "tone-and-format",
+    "when": "adapting to a medium or audience",
+    "technique_ids": [
+      "format-adaptation",
+      "phraseology-adaptation",
+      "understatement",
+      "deadly-sincerity",
+      "mood"
+    ],
+    "select": "Adapt conventions and tone with truthful identity, attribution, and limitations."
+  }
+]

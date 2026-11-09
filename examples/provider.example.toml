@@ -1,0 +1,30 @@
+# Copy to private/provider.toml and supply your chosen model and verified prices.
+# Never put an API key in this file: the worker reads the named environment variable.
+[provider]
+endpoint = "https://api.openai.com/v1/responses"
+model = ""
+api_key_env = "SCHWARTZ_PROVIDER_API_KEY"
+input_usd_per_million = 0.0 # Required: replace with current model rate.
+output_usd_per_million = 0.0 # Required: replace with current model rate.
+max_input_tokens = 250000 # Conservative request-byte bound, not a tokenizer estimate.
+max_output_tokens = 8000
+timeout_seconds = 120
+
+# Optional overrides inherit the base provider. Keys can be stage IDs,
+# market/source/creative/evidence/experiment review roles, or judge_0/judge_1/judge_2.
+# Separate model settings can diversify judgments; they do not prove independence.
+# [roles.source]
+# model = "your-source-review-model"
+# input_usd_per_million = 0.0
+# output_usd_per_million = 0.0
+# [roles.judge_1]
+# model = "your-second-judge-model"
+# api_key_env = "SCHWARTZ_SECOND_PROVIDER_API_KEY"
+
+# Durable cap across all runs served by this worker, including failed attempts.
+# Restarting preserves this ledger. Changing caps for the same ID is rejected.
+# Explicitly select a new batch ID only when authorizing a new batch.
+[worker]
+batch_id = "first-evaluation"
+max_model_calls = 50
+max_cost_usd = 5.0

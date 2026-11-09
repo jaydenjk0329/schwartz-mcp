@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "schwartz": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/absolute/path/to/schwartz-mcp",
+        "run",
+        "schwartz-mcp"
+      ],
+      "env": {
+        "SCHWARTZ_ROOT": "/absolute/path/to/schwartz-mcp"
+      }
+    }
+  }
+}

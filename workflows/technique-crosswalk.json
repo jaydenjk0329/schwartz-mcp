@@ -1,0 +1,3634 @@
+[
+  {
+    "technique_id": "market-development",
+    "stage_ids": [
+      "product_feedback"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "market-discovery",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-improvement",
+      "product-performance"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "analysis-over-imitation",
+    "stage_ids": [
+      "independent_review",
+      "study"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "example-analysis",
+      "experiment-and-learning",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "source-study",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "existing-desire",
+    "stage_ids": [
+      "market"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "permanent-forces",
+    "stage_ids": [
+      "market"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "changing-forces",
+    "stage_ids": [
+      "market"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "desire-dimensions",
+    "stage_ids": [
+      "market"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "dominant-desire",
+    "stage_ids": [
+      "theme"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "physical-functional",
+    "stage_ids": [
+      "evidence",
+      "product"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "example-analysis",
+      "experiment-and-learning",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "physical-proof",
+    "stage_ids": [
+      "product"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-job",
+    "stage_ids": [
+      "headlines",
+      "audit"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "example-analysis",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "awareness-routing",
+    "stage_ids": [
+      "diagnose"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-exclusions",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-open-ended",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "style-versus-strategy",
+    "stage_ids": [
+      "polish"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "sophistication-routing",
+    "stage_ids": [
+      "diagnose"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "sophistication-case",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "competitive-description",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "sophistication-diagnosis",
+      "source-study"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "verbalization",
+    "stage_ids": [
+      "headlines"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "creative-levels",
+    "stage_ids": [
+      "theme"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "motivation-research",
+    "stage_ids": [
+      "evidence",
+      "debate",
+      "experiment",
+      "learn"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "example-analysis",
+      "experiment-and-learning",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-personality",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "splinter-market"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "prevention",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "objection-repair"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "splinter-markets",
+    "stage_ids": [
+      "segment"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "creative-planning",
+    "stage_ids": [
+      "brief",
+      "theme",
+      "rank"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "example-analysis",
+      "experiment-and-learning",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "three-dimensions",
+    "stage_ids": [
+      "structure"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "copy-length",
+    "stage_ids": [
+      "structure",
+      "draft"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-principle",
+    "stage_ids": [
+      "draft"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "compression-campaign",
+    "stage_ids": [
+      "sequence",
+      "adapt"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "campaign-continuity",
+    "stage_ids": [
+      "sequence"
+    ],
+    "branch_ids": [
+      "campaign-pattern"
+    ],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "creative-refresh",
+      "full-campaign",
+      "new-product-launch"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "campaign-rule-example",
+    "stage_ids": [
+      "sequence"
+    ],
+    "branch_ids": [
+      "campaign-pattern"
+    ],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "creative-refresh",
+      "full-campaign",
+      "new-product-launch"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "campaign-implicit-theme",
+    "stage_ids": [
+      "sequence"
+    ],
+    "branch_ids": [
+      "campaign-pattern"
+    ],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "creative-refresh",
+      "full-campaign",
+      "new-product-launch"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "creative-gamble",
+    "stage_ids": [
+      "headlines"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "identification-role",
+    "stage_ids": [
+      "segment"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "identification-note",
+    "stage_ids": [
+      "identity"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "campaign-sequencing",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "identity-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-aware-persuasion",
+      "revive-product",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "character-roles",
+    "stage_ids": [
+      "identity"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "campaign-sequencing",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "identity-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-aware-persuasion",
+      "revive-product",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "achievement-roles",
+    "stage_ids": [
+      "identity"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "campaign-sequencing",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "identity-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-aware-persuasion",
+      "revive-product",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "identification-application",
+    "stage_ids": [
+      "identity"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "campaign-sequencing",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "identity-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-aware-persuasion",
+      "revive-product",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "primary-image",
+    "stage_ids": [
+      "identity"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "campaign-sequencing",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "identity-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-aware-persuasion",
+      "revive-product",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "new-images",
+    "stage_ids": [
+      "identity"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "campaign-sequencing",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "identity-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-aware-persuasion",
+      "revive-product",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "identification-bridge",
+    "stage_ids": [
+      "identity"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "campaign-sequencing",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "identity-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-aware-persuasion",
+      "revive-product",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "physical-image-sources",
+    "stage_ids": [
+      "identity"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "campaign-sequencing",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "identity-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "product-aware-persuasion",
+      "revive-product",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "belief-definition",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "belief-architecture",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "belief-awareness",
+    "stage_ids": [
+      "diagnose"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-discovery",
+      "creative-refresh",
+      "desire-intensification",
+      "feedback-research",
+      "full-campaign",
+      "headline-laboratory",
+      "identity-development",
+      "market-discovery",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-improvement",
+      "product-performance",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "belief-example",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "belief-opening",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "goal-conclusions",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "ultimate-conclusion",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "belief-restatement",
+    "stage_ids": [
+      "proof"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "inclusion-question",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [
+      "belief-devices"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "detailed-identification",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [
+      "belief-devices"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "belief-contradiction",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [
+      "belief-devices"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "language-of-logic",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [
+      "belief-devices"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "syllogism",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [
+      "belief-devices"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "other-belief-forms",
+    "stage_ids": [
+      "belief"
+    ],
+    "branch_ids": [
+      "belief-devices"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "objection-taxonomy",
+    "stage_ids": [
+      "objections"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "body-construction",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "full-campaign",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "simplification",
+    "stage_ids": [
+      "objections"
+    ],
+    "branch_ids": [
+      "redefinition"
+    ],
+    "workflow_ids": [
+      "body-construction",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "full-campaign",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "escalation",
+    "stage_ids": [
+      "objections"
+    ],
+    "branch_ids": [
+      "redefinition"
+    ],
+    "workflow_ids": [
+      "body-construction",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "full-campaign",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "price-redefinition",
+    "stage_ids": [
+      "objections",
+      "offer"
+    ],
+    "branch_ids": [
+      "redefinition"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "reader-questions",
+    "stage_ids": [
+      "mechanism"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "copy-audit-rewrite",
+      "full-campaign",
+      "mechanism-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-performance",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "verbal-proof",
+    "stage_ids": [
+      "mechanism"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "copy-audit-rewrite",
+      "full-campaign",
+      "mechanism-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-performance",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "mechanism-name",
+    "stage_ids": [
+      "mechanism"
+    ],
+    "branch_ids": [
+      "mechanism-depth"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "copy-audit-rewrite",
+      "full-campaign",
+      "mechanism-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-performance",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "mechanism-describe",
+    "stage_ids": [
+      "mechanism"
+    ],
+    "branch_ids": [
+      "mechanism-depth"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "copy-audit-rewrite",
+      "full-campaign",
+      "mechanism-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-performance",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "mechanism-feature",
+    "stage_ids": [
+      "mechanism"
+    ],
+    "branch_ids": [
+      "mechanism-depth"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "copy-audit-rewrite",
+      "full-campaign",
+      "mechanism-development",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "product-performance",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "bargain-mechanism",
+    "stage_ids": [
+      "offer"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "competitive-options",
+    "stage_ids": [
+      "alternatives",
+      "product_feedback"
+    ],
+    "branch_ids": [
+      "competition"
+    ],
+    "workflow_ids": [
+      "competitive-switch",
+      "full-campaign",
+      "product-improvement",
+      "product-performance",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "concentration",
+    "stage_ids": [
+      "alternatives"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "competitive-switch",
+      "full-campaign",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "contrast-pairs",
+    "stage_ids": [
+      "alternatives"
+    ],
+    "branch_ids": [
+      "competition"
+    ],
+    "workflow_ids": [
+      "competitive-switch",
+      "full-campaign",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "contrast-sequence",
+    "stage_ids": [
+      "alternatives"
+    ],
+    "branch_ids": [
+      "competition"
+    ],
+    "workflow_ids": [
+      "competitive-switch",
+      "full-campaign",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "concentration-compression",
+    "stage_ids": [
+      "alternatives"
+    ],
+    "branch_ids": [
+      "competition"
+    ],
+    "workflow_ids": [
+      "competitive-switch",
+      "full-campaign",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "borrowed-conviction",
+    "stage_ids": [
+      "adapt"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "format-adaptation",
+    "stage_ids": [
+      "adapt"
+    ],
+    "branch_ids": [
+      "tone-and-format"
+    ],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "phraseology-adaptation",
+    "stage_ids": [
+      "adapt"
+    ],
+    "branch_ids": [
+      "tone-and-format"
+    ],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "understatement",
+    "stage_ids": [
+      "adapt"
+    ],
+    "branch_ids": [
+      "tone-and-format"
+    ],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "deadly-sincerity",
+    "stage_ids": [
+      "adapt"
+    ],
+    "branch_ids": [
+      "tone-and-format"
+    ],
+    "workflow_ids": [
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "full-campaign",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "final-integration",
+    "stage_ids": [
+      "structure",
+      "audit",
+      "export"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "example-analysis",
+      "feedback-research",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "verification",
+    "stage_ids": [
+      "proof"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "proof-distinction",
+    "stage_ids": [
+      "proof",
+      "audit"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "example-analysis",
+      "feedback-research",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "reinforcement",
+    "stage_ids": [
+      "draft",
+      "polish"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "interweaving",
+    "stage_ids": [
+      "draft",
+      "polish"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "sensitivity",
+    "stage_ids": [
+      "structure",
+      "polish"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "sample-ad-1",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "example-analysis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "sample-ad-2",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "example-analysis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "sample-ad-3",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "example-analysis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "sample-ad-4",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "example-analysis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "structure-variation",
+    "stage_ids": [
+      "structure",
+      "audit"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "example-analysis",
+      "feedback-research",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "momentum",
+    "stage_ids": [
+      "polish"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "momentum-phrases",
+    "stage_ids": [
+      "polish"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "open-loops",
+    "stage_ids": [
+      "polish"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "mood",
+    "stage_ids": [
+      "polish",
+      "adapt"
+    ],
+    "branch_ids": [
+      "tone-and-format"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "ongoing-study",
+    "stage_ids": [
+      "learn",
+      "study"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "example-analysis",
+      "experiment-and-learning",
+      "full-campaign",
+      "source-study"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-01",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-02",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-03",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-04",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-05",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-06",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-07",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-08",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-09",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-10",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-11",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-12",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-13",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-14",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-15",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-16",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-17",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-18",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-19",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-20",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-21",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-22",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-23",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-24",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-25",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-26",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-27",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-28",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-29",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-30",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-31",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-32",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-33",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-34",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-35",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-36",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-37",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "headline-38",
+    "stage_ids": [],
+    "branch_ids": [
+      "headline-methods"
+    ],
+    "workflow_ids": [
+      "headline-laboratory"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-01",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-02",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-03",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-04",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-05",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-06",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-07",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-08",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-09",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-10",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-11",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-12",
+    "stage_ids": [],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "desire-intensification"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "intensification-13",
+    "stage_ids": [
+      "offer"
+    ],
+    "branch_ids": [
+      "intensification-methods"
+    ],
+    "workflow_ids": [
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "most-aware",
+    "stage_ids": [
+      "offer"
+    ],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "belief-repair",
+      "body-construction",
+      "campaign-sequencing",
+      "channel-adaptation",
+      "competitive-switch",
+      "copy-audit-rewrite",
+      "creative-refresh",
+      "desire-intensification",
+      "full-campaign",
+      "identity-development",
+      "mechanism-development",
+      "most-aware-offer",
+      "new-market-existing-product",
+      "new-product-launch",
+      "objection-repair",
+      "offer-value-guarantee",
+      "problem-aware-education",
+      "product-aware-persuasion",
+      "proof-placement",
+      "revive-product",
+      "solution-aware-introduction",
+      "sophistication-diagnosis",
+      "splinter-market",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-aware",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "product-aware-persuasion",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "solution-aware",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "new-product-launch",
+      "solution-aware-introduction",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "problem-aware",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "problem-aware-education",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "sophistication-diagnosis",
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "s1",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "s2",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "s3",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "s4",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "s5",
+    "stage_ids": [],
+    "branch_ids": [],
+    "workflow_ids": [
+      "awareness-diagnosis",
+      "full-campaign",
+      "revive-product",
+      "sophistication-diagnosis"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-01",
+    "stage_ids": [],
+    "branch_ids": [
+      "unaware-entries"
+    ],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-02",
+    "stage_ids": [],
+    "branch_ids": [
+      "unaware-entries"
+    ],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-03",
+    "stage_ids": [],
+    "branch_ids": [
+      "unaware-entries"
+    ],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-04",
+    "stage_ids": [],
+    "branch_ids": [
+      "unaware-entries"
+    ],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-05",
+    "stage_ids": [],
+    "branch_ids": [
+      "unaware-entries"
+    ],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-06",
+    "stage_ids": [],
+    "branch_ids": [
+      "unaware-entries"
+    ],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-07",
+    "stage_ids": [],
+    "branch_ids": [
+      "unaware-entries"
+    ],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "unaware-08",
+    "stage_ids": [],
+    "branch_ids": [
+      "unaware-entries"
+    ],
+    "workflow_ids": [
+      "unaware-entry"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-aware-01",
+    "stage_ids": [],
+    "branch_ids": [
+      "product-aware-tasks"
+    ],
+    "workflow_ids": [
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-aware-02",
+    "stage_ids": [],
+    "branch_ids": [
+      "product-aware-tasks"
+    ],
+    "workflow_ids": [
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-aware-03",
+    "stage_ids": [],
+    "branch_ids": [
+      "product-aware-tasks"
+    ],
+    "workflow_ids": [
+      "new-market-existing-product",
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-aware-04",
+    "stage_ids": [],
+    "branch_ids": [
+      "product-aware-tasks"
+    ],
+    "workflow_ids": [
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-aware-05",
+    "stage_ids": [],
+    "branch_ids": [
+      "product-aware-tasks"
+    ],
+    "workflow_ids": [
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-aware-06",
+    "stage_ids": [],
+    "branch_ids": [
+      "product-aware-tasks"
+    ],
+    "workflow_ids": [
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  },
+  {
+    "technique_id": "product-aware-07",
+    "stage_ids": [],
+    "branch_ids": [
+      "product-aware-tasks"
+    ],
+    "workflow_ids": [
+      "product-aware-persuasion"
+    ],
+    "coverage_kind": "workflow_specification_only",
+    "behavioral_test_status": "not_implemented"
+  }
+]

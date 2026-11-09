@@ -1,0 +1,741 @@
+[
+  {
+    "id": "brief",
+    "action": "Define product, audience, objective, channel, offer, constraints, and decision to make",
+    "requires": [
+      "request"
+    ],
+    "produces": [
+      "campaign_brief"
+    ],
+    "technique_ids": [
+      "creative-planning"
+    ],
+    "tool_adapters": [
+      "read_project"
+    ],
+    "pass_condition": "Unknowns are explicit and the requested decision is identifiable",
+    "failure_action": "request_missing_brief_fields",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "evidence",
+    "action": "Collect and classify product, customer, competitor, and past-performance evidence",
+    "requires": [
+      "campaign_brief"
+    ],
+    "produces": [
+      "evidence_ledger"
+    ],
+    "technique_ids": [
+      "motivation-research",
+      "physical-functional"
+    ],
+    "tool_adapters": [
+      "read_product",
+      "search_customer_data",
+      "search_competitors",
+      "read_analytics"
+    ],
+    "pass_condition": "Each factual record has provenance, date, scope, and fact versus inference status",
+    "failure_action": "return_research_tasks",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "product",
+    "action": "Map features to performances, benefits, limitations, and claim support",
+    "requires": [
+      "campaign_brief",
+      "evidence_ledger"
+    ],
+    "produces": [
+      "product_map",
+      "claim_ledger"
+    ],
+    "technique_ids": [
+      "physical-functional",
+      "physical-proof"
+    ],
+    "tool_adapters": [
+      "read_product",
+      "check_claims"
+    ],
+    "pass_condition": "Every proposed performance is supported or marked unverified",
+    "failure_action": "return_product_questions",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "market",
+    "action": "Identify existing desires, persistent forces, changing forces, and segment differences",
+    "requires": [
+      "campaign_brief",
+      "evidence_ledger"
+    ],
+    "produces": [
+      "market_map"
+    ],
+    "technique_ids": [
+      "existing-desire",
+      "permanent-forces",
+      "changing-forces",
+      "desire-dimensions"
+    ],
+    "tool_adapters": [
+      "search_customer_data",
+      "cluster_evidence"
+    ],
+    "pass_condition": "Desire ranking records intensity, recurrence, breadth, contrary evidence, and uncertainty",
+    "failure_action": "collect_market_evidence",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "segment",
+    "action": "Select a segment and document motivation, identity, situation, and alternatives",
+    "requires": [
+      "campaign_brief",
+      "evidence_ledger",
+      "market_map"
+    ],
+    "produces": [
+      "segment_profile"
+    ],
+    "technique_ids": [
+      "splinter-markets",
+      "identification-role"
+    ],
+    "tool_adapters": [
+      "cluster_evidence",
+      "search_customer_data"
+    ],
+    "pass_condition": "Selection has evidence and acknowledged alternatives",
+    "failure_action": "return_segment_hypotheses",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "diagnose",
+    "action": "Assess awareness and sophistication independently, with mixed and unknown states allowed",
+    "requires": [
+      "segment_profile",
+      "evidence_ledger",
+      "product_map"
+    ],
+    "produces": [
+      "market_diagnosis"
+    ],
+    "technique_ids": [
+      "awareness-routing",
+      "sophistication-routing",
+      "belief-awareness"
+    ],
+    "tool_adapters": [
+      "search_competitors",
+      "search_customer_data"
+    ],
+    "pass_condition": "Both axes have separate rationales and evidence; no forced single label",
+    "failure_action": "return_diagnostic_research",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "theme",
+    "action": "Choose dominant desire, supported performance, and distinct strategic angles",
+    "requires": [
+      "market_diagnosis",
+      "market_map",
+      "product_map",
+      "segment_profile"
+    ],
+    "produces": [
+      "strategy_hypotheses"
+    ],
+    "technique_ids": [
+      "dominant-desire",
+      "creative-planning",
+      "creative-levels"
+    ],
+    "tool_adapters": [
+      "retrieve_knowledge"
+    ],
+    "pass_condition": "Hypotheses state mechanism, rival explanations, falsifiers, and source references",
+    "failure_action": "return_to_market_or_product",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "identity",
+    "action": "Build an acceptable product image and bridge to desired roles",
+    "requires": [
+      "segment_profile",
+      "product_map",
+      "strategy_hypotheses"
+    ],
+    "produces": [
+      "identity_plan"
+    ],
+    "technique_ids": [
+      "identification-note",
+      "identification-application",
+      "character-roles",
+      "achievement-roles",
+      "primary-image",
+      "new-images",
+      "identification-bridge",
+      "physical-image-sources"
+    ],
+    "tool_adapters": [
+      "search_customer_data",
+      "inspect_asset"
+    ],
+    "pass_condition": "Plan distinguishes actual product traits, desired associations, and unknown acceptance",
+    "failure_action": "revise_identity_or_research",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "mechanism",
+    "action": "Choose whether to name, describe, or feature a real mechanism",
+    "requires": [
+      "product_map",
+      "claim_ledger",
+      "market_diagnosis"
+    ],
+    "produces": [
+      "mechanism_plan"
+    ],
+    "technique_ids": [
+      "reader-questions",
+      "verbal-proof",
+      "mechanism-name",
+      "mechanism-describe",
+      "mechanism-feature"
+    ],
+    "tool_adapters": [
+      "read_product",
+      "check_claims"
+    ],
+    "pass_condition": "Every mechanism assertion traces to product evidence; explanation is proportionate to reader need",
+    "failure_action": "return_product_questions",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "belief",
+    "action": "Map accepted premises, necessary intermediate conclusions, objections, and final claim",
+    "requires": [
+      "segment_profile",
+      "claim_ledger",
+      "strategy_hypotheses"
+    ],
+    "produces": [
+      "belief_plan"
+    ],
+    "technique_ids": [
+      "belief-definition",
+      "belief-architecture",
+      "belief-example",
+      "belief-opening",
+      "goal-conclusions",
+      "ultimate-conclusion",
+      "inclusion-question",
+      "detailed-identification",
+      "belief-contradiction",
+      "language-of-logic",
+      "syllogism",
+      "other-belief-forms"
+    ],
+    "tool_adapters": [
+      "check_inferences",
+      "search_customer_data"
+    ],
+    "pass_condition": "Every transition has a stated support or explicitly labeled hypothesis",
+    "failure_action": "repair_missing_premise",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "objections",
+    "action": "Classify and address difficulty, importance, price, and switching barriers",
+    "requires": [
+      "segment_profile",
+      "product_map",
+      "claim_ledger",
+      "belief_plan"
+    ],
+    "produces": [
+      "objection_plan"
+    ],
+    "technique_ids": [
+      "objection-taxonomy",
+      "simplification",
+      "escalation",
+      "price-redefinition"
+    ],
+    "tool_adapters": [
+      "check_claims",
+      "calculate_offer"
+    ],
+    "pass_condition": "Reframing preserves actual limitations and economics",
+    "failure_action": "return_offer_or_product_issue",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "alternatives",
+    "action": "Choose whether and how to compare competing paths to the desired result",
+    "requires": [
+      "segment_profile",
+      "product_map",
+      "evidence_ledger"
+    ],
+    "produces": [
+      "comparison_plan"
+    ],
+    "technique_ids": [
+      "competitive-options",
+      "concentration",
+      "contrast-pairs",
+      "contrast-sequence",
+      "concentration-compression"
+    ],
+    "tool_adapters": [
+      "search_competitors",
+      "check_claims"
+    ],
+    "pass_condition": "Each criticism is relevant, sourced, and paired with a supported advantage",
+    "failure_action": "omit_unsupported_comparison",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "offer",
+    "action": "Specify real price, terms, delivery, guarantee, and reason for any favorable terms",
+    "requires": [
+      "campaign_brief",
+      "product_map",
+      "claim_ledger"
+    ],
+    "produces": [
+      "offer_plan"
+    ],
+    "technique_ids": [
+      "most-aware",
+      "price-redefinition",
+      "bargain-mechanism",
+      "intensification-13"
+    ],
+    "tool_adapters": [
+      "calculate_offer",
+      "read_product"
+    ],
+    "pass_condition": "All terms, arithmetic, qualifications, and guarantee conditions are accurate",
+    "failure_action": "return_offer_questions",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "headlines",
+    "action": "Generate strategically distinct entry points and selected headline transformations",
+    "requires": [
+      "strategy_hypotheses",
+      "market_diagnosis",
+      "claim_ledger"
+    ],
+    "produces": [
+      "headline_candidates"
+    ],
+    "technique_ids": [
+      "headline-job",
+      "verbalization",
+      "creative-gamble"
+    ],
+    "tool_adapters": [
+      "retrieve_knowledge",
+      "check_claims",
+      "measure_asset"
+    ],
+    "pass_condition": "Each candidate records its audience entry, underlying idea, method, and body promise",
+    "failure_action": "revise_strategy_or_wording",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "structure",
+    "action": "Generate alternative orders of promise, image, explanation, proof, objections, and action",
+    "requires": [
+      "headline_candidates",
+      "belief_plan",
+      "claim_ledger"
+    ],
+    "produces": [
+      "structure_candidates"
+    ],
+    "technique_ids": [
+      "three-dimensions",
+      "copy-length",
+      "final-integration",
+      "sensitivity",
+      "structure-variation"
+    ],
+    "tool_adapters": [
+      "retrieve_knowledge",
+      "check_inferences"
+    ],
+    "pass_condition": "The outline answers the reader's next need; length and order have a rationale",
+    "failure_action": "reconsider_headline_or_belief_plan",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "draft",
+    "action": "Produce candidate copy with selected intensification and identification techniques",
+    "requires": [
+      "structure_candidates",
+      "claim_ledger",
+      "product_map"
+    ],
+    "produces": [
+      "draft_candidates"
+    ],
+    "technique_ids": [
+      "intensification-principle",
+      "interweaving",
+      "reinforcement",
+      "copy-length"
+    ],
+    "tool_adapters": [
+      "retrieve_knowledge",
+      "check_claims"
+    ],
+    "pass_condition": "Draft fulfills its opening and distinguishes supported claims from placeholders",
+    "failure_action": "revise_or_mark_not_publishable",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "proof",
+    "action": "Place and qualify documentation where it resolves the reader's actual question",
+    "requires": [
+      "draft_candidates",
+      "claim_ledger",
+      "evidence_ledger"
+    ],
+    "produces": [
+      "proof_checked_candidates"
+    ],
+    "technique_ids": [
+      "verification",
+      "proof-distinction",
+      "belief-restatement"
+    ],
+    "tool_adapters": [
+      "check_claims",
+      "check_citations"
+    ],
+    "pass_condition": "Every material factual claim has adequate support; explanation is not double-counted as evidence",
+    "failure_action": "remove_qualify_or_research_claim",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "polish",
+    "action": "Review continuity, open-loop resolution, reinforcement, tone, and rhythm",
+    "requires": [
+      "proof_checked_candidates",
+      "segment_profile"
+    ],
+    "produces": [
+      "polished_candidates"
+    ],
+    "technique_ids": [
+      "reinforcement",
+      "interweaving",
+      "sensitivity",
+      "momentum",
+      "momentum-phrases",
+      "open-loops",
+      "mood",
+      "style-versus-strategy"
+    ],
+    "tool_adapters": [
+      "measure_asset",
+      "inspect_asset"
+    ],
+    "pass_condition": "Readability improvements preserve meaning and every promised answer is delivered",
+    "failure_action": "revise_local_copy_or_structure",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "sequence",
+    "action": "Allocate the central idea and distinct persuasive jobs across campaign assets",
+    "requires": [
+      "strategy_hypotheses",
+      "polished_candidates",
+      "campaign_brief"
+    ],
+    "produces": [
+      "campaign_sequence"
+    ],
+    "technique_ids": [
+      "campaign-continuity",
+      "campaign-rule-example",
+      "campaign-implicit-theme",
+      "compression-campaign"
+    ],
+    "tool_adapters": [
+      "measure_asset"
+    ],
+    "pass_condition": "Each asset stands alone as needed and contributes a distinct job without contradictory claims",
+    "failure_action": "revise_sequence_or_assets",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "adapt",
+    "action": "Translate strategy into the selected channel's constraints and format",
+    "requires": [
+      "polished_candidates",
+      "campaign_brief",
+      "offer_plan"
+    ],
+    "produces": [
+      "channel_assets"
+    ],
+    "technique_ids": [
+      "borrowed-conviction",
+      "format-adaptation",
+      "phraseology-adaptation",
+      "understatement",
+      "deadly-sincerity",
+      "compression-campaign",
+      "mood"
+    ],
+    "tool_adapters": [
+      "measure_asset",
+      "inspect_asset"
+    ],
+    "pass_condition": "Length, layout, transitions, disclosures, and destination promise match the channel brief",
+    "failure_action": "revise_channel_asset",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "independent_review",
+    "action": "Collect independent strategy, source, creative, evidence, and experiment reviews",
+    "requires": [
+      "candidate_pool",
+      "evidence_ledger",
+      "campaign_brief"
+    ],
+    "produces": [
+      "independent_reviews"
+    ],
+    "technique_ids": [
+      "analysis-over-imitation"
+    ],
+    "tool_adapters": [
+      "invoke_model",
+      "check_claims"
+    ],
+    "pass_condition": "Reviewers have not seen peer judgments and cite candidate spans and evidence",
+    "failure_action": "retry_missing_review_or_abstain",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "debate",
+    "action": "Resolve consequential disagreements with bounded critique and targeted tool checks",
+    "requires": [
+      "candidate_pool",
+      "independent_reviews",
+      "evidence_ledger"
+    ],
+    "produces": [
+      "debate_record",
+      "revised_candidates"
+    ],
+    "technique_ids": [
+      "motivation-research"
+    ],
+    "tool_adapters": [
+      "invoke_model",
+      "retrieve_knowledge",
+      "check_claims",
+      "search_customer_data"
+    ],
+    "pass_condition": "Changes and unresolved dissent are recorded; no evidence-free forced consensus",
+    "failure_action": "stop_with_dissent_or_research_request",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "rank",
+    "action": "Compare eligible candidates under a blinded, fixed-context rubric",
+    "requires": [
+      "candidate_pool",
+      "independent_reviews",
+      "campaign_brief"
+    ],
+    "produces": [
+      "tournament_result",
+      "selected_candidates"
+    ],
+    "technique_ids": [
+      "creative-planning"
+    ],
+    "tool_adapters": [
+      "invoke_model",
+      "fit_pairwise_ranking"
+    ],
+    "pass_condition": "Order effects, ties, disagreement, validity failures, and candidate diversity are visible",
+    "failure_action": "abstain_or_run_additional_comparisons",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "experiment",
+    "action": "Design a real test for the consequential uncertainty",
+    "requires": [
+      "tournament_result",
+      "campaign_brief",
+      "evidence_ledger"
+    ],
+    "produces": [
+      "experiment_plan"
+    ],
+    "technique_ids": [
+      "motivation-research"
+    ],
+    "tool_adapters": [
+      "calculate_sample_requirements",
+      "analyze_results"
+    ],
+    "pass_condition": "Control, treatment, primary metric, guardrails, allocation, stopping and analysis plans are specified",
+    "failure_action": "return_missing_baseline_or_measurement_plan",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "learn",
+    "action": "Analyze observations and update scoped campaign findings",
+    "requires": [
+      "experiment_plan",
+      "observed_results"
+    ],
+    "produces": [
+      "experiment_analysis",
+      "project_findings"
+    ],
+    "technique_ids": [
+      "motivation-research",
+      "ongoing-study"
+    ],
+    "tool_adapters": [
+      "analyze_results"
+    ],
+    "pass_condition": "Randomized evidence, observational association, and synthetic judgments remain separate",
+    "failure_action": "report_inconclusive_or_invalid_measurement",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "audit",
+    "action": "Diagnose an existing campaign by source-grounded problems and repair priority",
+    "requires": [
+      "existing_assets",
+      "campaign_brief",
+      "evidence_ledger"
+    ],
+    "produces": [
+      "audit_findings",
+      "repair_plan"
+    ],
+    "technique_ids": [
+      "final-integration",
+      "structure-variation",
+      "headline-job",
+      "proof-distinction"
+    ],
+    "tool_adapters": [
+      "inspect_asset",
+      "check_claims",
+      "read_analytics"
+    ],
+    "pass_condition": "Each finding identifies a span, consequence, evidence, proposed repair, and uncertainty",
+    "failure_action": "return_insufficient_context",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "product_feedback",
+    "action": "Convert unsupported desired promises into product or offer improvement proposals",
+    "requires": [
+      "product_map",
+      "claim_ledger",
+      "market_map"
+    ],
+    "produces": [
+      "product_improvement_brief"
+    ],
+    "technique_ids": [
+      "competitive-options",
+      "market-development"
+    ],
+    "tool_adapters": [
+      "read_product"
+    ],
+    "pass_condition": "Aspirational capability is labeled proposed and never exported as current fact",
+    "failure_action": "return_to_product_owner",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "study",
+    "action": "Analyze original source, examples, exceptions, cross-references, and new literature",
+    "requires": [
+      "source_request"
+    ],
+    "produces": [
+      "source_analysis"
+    ],
+    "technique_ids": [
+      "ongoing-study",
+      "analysis-over-imitation"
+    ],
+    "tool_adapters": [
+      "retrieve_knowledge",
+      "inspect_source"
+    ],
+    "pass_condition": "Source statement, interpretation, empirical evidence, and unavailable material are distinguished",
+    "failure_action": "record_source_gap",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  },
+  {
+    "id": "export",
+    "action": "Assemble reviewable campaign artifacts and their evidence and test package",
+    "requires": [
+      "selected_assets",
+      "campaign_brief",
+      "claim_ledger"
+    ],
+    "produces": [
+      "campaign_package"
+    ],
+    "technique_ids": [
+      "final-integration"
+    ],
+    "tool_adapters": [
+      "write_local_artifact"
+    ],
+    "pass_condition": "Versioned assets include evidence links, assumptions, open issues, and next actions",
+    "failure_action": "return_unresolved_release_issues",
+    "provenance_class": "engineering_workflow_informed_by_book",
+    "implementation_status": "contract_only"
+  }
+]

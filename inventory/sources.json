@@ -1,0 +1,9 @@
+{
+  "known_gaps": [
+    {
+      "id": "public-demo-no-book-corpus",
+      "description": "Public release contains only original demo guidance. No book corpus is included.",
+      "source_pages": []
+    }
+  ]
+}
